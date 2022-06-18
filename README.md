@@ -1,6 +1,6 @@
 # Simple Shell Project
 
-This repo contains ALX SE Program Project 0x16 for the participant contributors. The project is a simple shell which should work exactly like a normal terminal or command prompt when run on a computer. 
+This repo contains my implementation of the ALX SE Program Project 0x16. The project is a simple shell which should work exactly like a normal terminal or command prompt when run on a computer. 
 
 ## Getting Started
 
